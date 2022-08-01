@@ -1,0 +1,762 @@
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+select * from hm_xodimlar where xodim_login = 'login1' and xodim_parol = '123456' 
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+select * from hm_xodimlar where xodim_login = 'login1' and xodim_parol = '123456' 
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+select * from hm_xodimlar where xodim_login = 'login1' and xodim_parol = '123456' 
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+select * from hm_xodimlar where xodim_login = 'login1' and xodim_parol = '123456' 
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+select * from hm_xodimlar where xodim_login = 'login1' and xodim_parol = '123456' 
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => 
+    [HodimParol] => 
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => 
+    [HodimParol] => 
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => gbfbrb
+    [HodimParol] => gefbgbf
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => gfbefv
+    [HodimParol] => ereerv
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => vfvvfv
+    [HodimParol] => vfvvv
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => egrefv
+    [HodimParol] => evvevr
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => bdfbg
+    [HodimParol] => dfbfgf
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => sacsdvv
+    [HodimParol] => vddfvd
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => vdfbvbf
+    [HodimParol] => fvgbgbg
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => vfvds
+    [HodimParol] => cvssv
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => sdcvfssdva
+    [HodimParol] => dscvsvsd
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 12345
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => davsdc
+    [HodimParol] => dvdscvs
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => bfbfev
+    [HodimParol] => efveb
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => kbhv
+    [HodimParol] => lkjljn
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => dffvs
+    [HodimParol] => svdbdb
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => fbdbfb
+    [HodimParol] => svbdbdb
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => bfgbbb
+    [HodimParol] => dsvdbdb
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => fbdbd
+    [HodimParol] => vdfd
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => dvsvav
+    [HodimParol] => vsfvfv
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => sdvfv
+    [HodimParol] => fvdbdb
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => svsdvdv
+    [HodimParol] => vsvdvd
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => fgfgf
+    [HodimParol] => dfsbdb
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => fdfsdf
+    [HodimParol] => fwdfdwf
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => svsvv
+    [HodimParol] => vsvv
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => vdfbdb
+    [HodimParol] => bdfbgb
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+    [action] => CheckHodimStatus
+    [HodimLogin] => login1
+    [HodimParol] => 123456
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
