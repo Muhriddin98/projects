@@ -1,0 +1,313 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #f7f7f7;
+}
+.wrapper{
+    background: #fff;
+    width: 450px;
+    box-shadow: 0 0 10px black;
+    border-radius: 15px;
+}
+.form{
+    padding: 25px 30px;
+}
+.form header{
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e6e6e6;
+}
+.form form{
+    margin: 20px 0;
+}
+.form form .error-txt{
+    color: #721c24;
+    background: #f8d7da;
+    padding: 8px 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #f5c6cb;
+    display: none;
+}
+.form form .field i{
+    position: absolute;
+    right: 15px;
+    color: #ccc;
+    top: 70%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+.form form .field i.active::before{
+    color: #333333;
+    content: "\f070";
+}
+.form form .field{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.form form .field input{
+    outline: none;
+}
+.form form .name-details{
+    display: flex;
+}
+.name-details .field:first-child{
+    margin-right: 10px;
+}
+.name-details .field:last-child{
+    margin-left: 10px;
+}
+.form form .field label{
+    margin-bottom: 5px;
+}
+.form form .input input{
+    height: 40px;
+    width: 100%;
+    font-size: 16px;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.form form .image input{
+    font-size: 17px;
+}
+.form form .button input{
+    margin-top: 13px;
+    height: 45px;
+    border: none;
+    font-size: 17px;
+    font-weight: 500;
+    background: #333;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form .link{
+    text-align: center;
+    margin: 10px 0;
+    font-size: 17px;
+}
+.form .link a{
+    color: #333;
+}
+.form .link a:hover{
+    text-decoration: underline;
+}
+.users{
+    padding: 25px 30px;
+}
+.users header,
+.user-list a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 20px;
+}
+.wrapper img{
+    object-fit: cover;
+    border-radius: 50%;
+}
+.users .content,
+.user-list .content{
+    display: flex;
+    align-items: center;
+}
+.users .content img,
+.user-list .content img{
+    height: 50px;
+    width: 50px;
+}
+.users .details,
+.user-list .details{
+    color: #000;
+    margin-left: 15px;
+}
+.users .details span,
+.user-list .details span{
+    font-size: 18px;
+    font-weight: 500;
+}
+.users header .logout{
+    color: #fff;
+    background-color: #333;
+    font-size: 17px;
+    padding: 7px 15px;
+    border-radius: 5px;
+}
+.users .search{
+    margin: 20px 0;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+}
+.users .search .text{
+    font-size: 18px;
+}
+.users .search input{
+    position: absolute;
+    height: 42px;
+    width: calc(100% - 48px);
+    border: 1px solid #ccc;
+    padding: 0 13px;
+    font-size: 16px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    opacity: 0;
+    transition: all 300ms ease;
+}
+.users .search input.active{
+    opacity: 1;
+}
+.users .search button{
+    width: 47px;
+    height: 42px;
+    border: none;
+    outline: none;
+    color: #333333;
+    background-color: #ffffff;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 0 5px 5px 0;
+    transition: all 300ms ease;
+}
+.users .search button.active{
+    color: #fff;
+    background-color: #333;
+}
+.users .search button.active i::before{
+    content: "\f00d";
+}
+.user-list{
+    max-height: 350px;
+    overflow-y: scroll;
+}
+.user-list::-webkit-scrollbar{
+    width: 0px;
+}
+.user-list a{
+    margin-bottom: 10px;
+    border-bottom-color: #f1f1f1;
+    padding-right: 15px;
+}
+.user-list a:last-child{
+    border: none;
+    margin-bottom: 0px;
+}
+.user-list a .content p{
+    color: #67676a;
+}
+.user-list a .content img{
+    height: 40px;
+    width: 40px;
+}
+.user-list a .status-dot{
+    font-size: 12px;
+    color: #468669;
+}
+.user-list a .status-dot.offline{
+    color: #ccc;
+}
+.chat-area header{
+    display: flex;
+    align-items: center;
+    padding: 18px 30px;
+}
+.chat-area header img{
+    height: 45px;
+    width: 45px;
+    margin: 0 15px;
+}
+.chat-area header .back-icon{
+    font-size: 18px;
+    color: #333;
+}
+.chat-box{
+    height: 500px;
+    overflow-y: scroll;
+    background: lavender;
+    padding: 10px 20px 10px 20px;
+}
+.chat-box::-webkit-scrollbar{
+    width: 0px;
+}
+.chat-box .chat{
+    margin: 5px 0px;
+}
+.chat-box .chat p{
+    padding: 8px 12px;
+    word-wrap: break-word;
+}
+.chat-box .chat p span{
+    font-size: 11px;
+    font-family: Consolas;
+}
+.chat-box .out{
+    display: flex;
+    align-items: center;
+}
+.out .details{
+    margin-left: auto;
+    max-width: calc(100% - 130px);
+}
+.out .details p{
+    background: black;
+    color: white;
+    border-radius: 20px 20px 0 20px;
+}
+.chat-box .in{
+    display: flex;
+    align-items: flex-end;
+}
+.chat-box .in img{
+    width: 35px;
+    height: 35px;
+}
+.in .details{
+    margin-left: 10px;
+    margin-right: auto;
+    max-width: calc(100% - 130px);
+}
+.in .details p{
+    color: black;
+    background: white;
+    border-radius: 20px 20px 20px 0px;
+}
+.chat-area .typing-area{
+    padding: 15px 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.typing-area input{
+    height: 45px;
+    width: calc(100% - 58px);
+    font-size: 17px;
+    border: 1px solid #ccc;
+    padding: 0 13px;
+    border-radius: 7px 0 0 7px;
+    outline: none;
+}
+.typing-area button{
+    width: 58px;
+    border: none;
+    outline: none;
+    background: #333333;
+    color: #ffffff;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 0 7px 7px 0;
+}
